@@ -1,2 +1,1 @@
-# Ichmagkase.github.io
-Static website
+# This is my page
